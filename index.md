@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-Welcome to my home page. I'm a senior majoring in Computer Science and Technology in Harbin Institute of Technology. Now I'm broadening my technology stack and working towards becoming a Google employee
+Welcome to my home page. I'm a senior majoring in Computer Science and Technology in Harbin Institute of Technology. Now I'm broadening my technology stack and working towards becoming a Google employee : )
 Have a nice day!  
 
 <br/>
@@ -16,6 +16,7 @@ Have a nice day!
 * Carnegie Mellon University (2021/04 ~ 2021/07)
   * Computer Science Department
     * Online course: Algorithms for Big Data
+    
 <br/>
 
 # Technical Skills
