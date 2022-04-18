@@ -3,24 +3,24 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+Welcome to my home page. I'm a senior majoring in Computer Science and Technology in Harbin Institute of Technology. Now I'm broadening my technology stack and working towards becoming a Google employee
+Have a nice day!  
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
-
+# Education Background
+* Harbin Institute of Technology (2018/08 ~ )
+  * Faculty of Computing
+    * Major: Computer Science and Technology
+    * Degree: Bachelor of Engineering (Expected)
+* Carnegie Mellon University (2021/04 ~ 2021/07)
+  * Computer Science Department
+    * Online course: Algorithms for Big Data
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Technical Skills
+* Skilled at C, Java, Python, SQL, C++, HTML; proficient in Test-First Programming and other software development thought;
+* Mastered the structure and application of deep learning models such as BERT and GNN, deep learning frameworks, such as PyTorch and TensorFlow, common machine learning algorithms, such as SVM, Naive Bayes, and the implementation and application of data structures, such as Red Black Tree;
+* Proficient in the operation of Linux systems (such as CentOS and Ubuntu), Git version control system, LaTex typesetting tools, Conda package management tools and other tools.
+
+
