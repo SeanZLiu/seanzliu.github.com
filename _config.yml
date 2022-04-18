@@ -1,6 +1,6 @@
 # Site settings
 title: Jingshuo's homepage
-baseurl: "/"
+baseurl: 
 url: "https://seanzliu.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
